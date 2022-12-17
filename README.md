@@ -29,9 +29,9 @@
   - 是否推荐
 
 
-## Part 1. COEN 9xx Courses (编号为9开头的课）
-- 指 912/920C/921C 三门Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课的课，需要额外付钱修的课。
-- 教授都是同一位，C. Fussell
+## Part 1. COEN 912/920C/921C
+- 这三门课在Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课，如果Waive失败则需要额外付钱修。
+- 如选择在学校上，则这三门课的教授都是同一位，C. Fussell
 
 ### COEN920C Embedded Systems and Assembly Language
 - **Workload与难度:** 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
