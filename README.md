@@ -85,11 +85,14 @@
   - **教授情况：** RMP上基本全是好评。
   - **是否推荐：** 推荐，尤其推荐本身有一定Java基础的同学，学起来相对轻松而且容易拿分。
 
+=====To Be Updated=====
+
 
 ## Part 4. COEN 2XX Courses Other Electives
-COEN290
-COEN241
+### COEN290 Computer Graphics
+### COEN241 Cloud Computing
 
+=====To Be Updated=====
 
 
 ## Part 5. EMGT Courses
