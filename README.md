@@ -11,9 +11,10 @@
 
 
 ## 如何使用本Repository
-- 使用Ctrl+F快捷键，搜索课程编号/教授姓氏。
-  - 课程编号示例：COEN279（注意不要带空格，不然无法直接跳转到对应的评价）
-  - 教授姓氏示例：Tran
+- 使用Ctrl+F快捷键，搜索课程编号/课程名称/教授姓氏。
+  - 课程编号示例：COEN288（注意不要带空格，不然无法直接跳转到对应的评价）
+  - 课程名称示例：Design Patterns
+  - 教授姓氏示例：Wang
 - 可同时配合Rate My Professor（https://www.ratemyprofessors.com/school?sid=882) 进行使用。如果有教授被提及Tough Grader等评价，珍惜GPA，请务必慎重选择该位教授的课程。
 
 
