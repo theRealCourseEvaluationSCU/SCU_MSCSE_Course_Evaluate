@@ -66,10 +66,13 @@
 
 
 ## Part 3. COEN 3XX Courses (编号为3开头的课）
+COEN317
+COEN359
 
 
-
-## Part 4. COEN Other Electives
+## Part 4. COEN 2XX Courses Other Electives
+COEN290
+COEN241
 
 
 
