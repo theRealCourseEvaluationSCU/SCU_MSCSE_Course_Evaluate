@@ -70,7 +70,7 @@
 ### 2.3 COEN210 Computer Architecture
 目前已知的有以下教授上过：
 - 教授1: Y. Cui
-  - **Workload与难度：** 三次作业，都是教材上的题目；一个project，设计一个cpu，需要交assembly code和datapath，最后有presentation和report；两个quiz，时间半小时，题比较少。midterm，有选择填空解答，题量比较大但是有考试范围。final，无选择填空，10道左右解答题，给了详细的复习重点。（都可以带cheet sheet）
+  - **Workload与难度：** 三次作业5%，都是教材上的题目：一个project15%，设计一个cpu，需要交assembly code和datapath，最后有presentation和report；两个quiz10%，时间半小时，题比较少；midterm30%，有选择填空解答，题量比较大但是有考试范围；final40%，无选择填空，10道左右解答题，给了详细的复习重点。都可以带cheat sheet。
   - **给分情况：** 虽然题有一定难度，但给分很宽松，作业交了基本都是满分，最后总分A/A-的比例相对K Pahlavan教授的210多很多。
   - **教授情况：** 考试前划重点，并告知考试范围，非常利于复习。做好cheet cheet考试应该都没有问题。虽然上课基本是对着ppt读，但答疑态度很好，十分友善，也可以直接用中文提问。
   - **是否推荐：** 推荐选择。
