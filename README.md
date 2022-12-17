@@ -1,6 +1,6 @@
 ## About Us
 - 我们是SCU MSCSE疫情后恢复线下上课的第一批研究生新生，经历了**混乱的选课顺序**和**极度的信息缺失与不对称**，以至于**GPA一度威胁到CPT的办理（CPT要求最低GPA需在3.0以上）**。
-- 创建这个GitHub的目的是帮助来到SCU的转码或目标找工的同学**打破只能通过微信群获取信息的壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量帮助后来者避免走弯路**。老中helps老中！
+- 创建这个GitHub的目的是帮助来到SCU的转码或目标找工的同学**打破只能通过微信群获取信息的单一途径/壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量帮助后来者避免走弯路**。老中helps老中！
 
 ## 评价标准
 - 笔者及身边小伙伴一致认为，身兼找工压力的人和已经拿到实习/全职Offer的人的选课思路应该是不一样的。
@@ -21,8 +21,8 @@
 
 ## Part 1. COEN Core Courses
 ### 1.1 基本概念
-- 对于绝大多数同学而言的Core Course: COEN279（算法），COEN283（操作系统），COEN210（Computer Architecture）。每门
-
+- 绝大多数同学的Core Course: COEN279（算法），COEN283（操作系统），COEN210（Computer Architecture）。身边个别CS科班的同学也有这三门课被Waive，因此只能选这三门课的Advance版本的情况（279->**3**79,283->**3**83,...）。
+- 每门课每quarter通常会有1-3名教授同时提供课程，且每个quarter的教授大概率不一样。比如fall学期可能279是Tran和Sid，Spring学期就可能是Wang Yuan或其他老师。
 
 ## Part 2. COEN 3XX Courses
 
