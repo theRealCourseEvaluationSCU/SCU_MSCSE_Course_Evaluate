@@ -34,10 +34,10 @@
 - 教授都是同一位，C. Fussell
 
 ### COEN920C Embedded Systems and Assembly Language
-- Workload与难度: 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
-- 给分情况：纯粹由考试组成，两次quiz30%，midterm30%，final40%。midterm考了很多array index的问题，这部分内容midterm之后才开始讲，可谓措手不及。Final也是考了很多最后两章的内容，而老师只花了一周的时间草草过一遍，出现了不少homework也没见过的题型。虽然可以带cheatsheet，但由于题量很大查阅也会耗时，导致不少人在这节课翻车，保持每次都在平均分大概能保住B，而每次只比平均分低一两分都可能到C。homework的题型只能保住B grade，会有一些没见过的考题。**甚至会给到D+的grade。**
-- 教授情况：教学质量堪忧，纯粹念ppt且语调催眠。考试完会有zoom review，但不发solution。可发邮件咨询问题，可zoom，但没有office hour。
-- 是否推荐：上过的同学表示没有任何理由选这门课以及912/921，纯属花钱买罪受，还不算毕业credit。建议尝试各种办法去waive，不然就去de anza上网课。如果觉得还是需要补习一下这方面的知识，也建议尽量不要在第一个quarter选，可以等自己适应一段时间学校的学习节奏之后再选。
+- **Workload与难度:** 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
+- **给分情况：** 纯粹由考试组成，两次quiz30%，midterm30%，final40%。midterm考了很多array index的问题，这部分内容midterm之后才开始讲，可谓措手不及。Final也是考了很多最后两章的内容，而老师只花了一周的时间草草过一遍，出现了不少homework也没见过的题型。虽然可以带cheatsheet，但由于题量很大查阅也会耗时，导致不少人在这节课翻车，保持每次都在平均分大概能保住B，而每次只比平均分低一两分都可能到C。homework的题型只能保住B grade，会有一些没见过的考题。**甚至会给到D+的grade。**
+- **教授情况：** 教学质量堪忧，纯粹念ppt且语调催眠。考试完会有zoom review，但不发solution。可发邮件咨询问题，可zoom，但没有office hour。
+- **是否推荐：** 上过的同学表示没有任何理由选这门课以及912/921，纯属花钱买罪受，还不算毕业credit。建议尝试各种办法去waive，不然就去de anza上网课。如果觉得还是需要补习一下这方面的知识，也建议尽量不要在第一个quarter选，可以等自己适应一段时间学校的学习节奏之后再选。
 
 
 
