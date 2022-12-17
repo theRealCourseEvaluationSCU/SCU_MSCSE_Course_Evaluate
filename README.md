@@ -58,7 +58,7 @@
 
 ### 2.3 COEN210 Computer Architecture
 目前已知的有以下教授上过：
-- 教授1: Y. Cui3
+- 教授1: Y. Cui
 - 教授2: A. Zaky
 - 教授3: Y. Wang
 - 教授4: K. Pahlavan
