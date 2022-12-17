@@ -19,12 +19,18 @@
 - 也可以给我的邮箱xxxx发邮件，我会添加到正文。
 
 
-## Part 1. COEN Core Courses
+## Part 1. COEN Core Courses （核心课程）
 ### 1.1 基本概念
-- 绝大多数同学的Core Course: COEN279（算法），COEN283（操作系统），COEN210（Computer Architecture）。身边个别CS科班的同学也有这三门课被Waive，因此只能选这三门课的Advance版本的情况（279->**3**79,283->**3**83,...）。
-- 每门课每quarter通常会有1-3名教授同时提供课程，且每个quarter的教授大概率不一样。比如fall学期可能279是Tran和Sid，Spring学期就可能是Wang Yuan或其他老师。
+- 绝大多数同学的Core Course: 279（算法），283（操作系统），210（Computer Architecture）。据说极个别CS科班同学也有这三门课被Waive，因此只能选这三门课Advanced版本的情况（279->**3**79,283->**3**83,...）。
+- 每门课每quarter通常会有1-3名教授同时提供课程，且每个quarter的教授大概率不一样。比如fall学期可能279是Tran和Sid，Spring学期就可能是Wang Yuan或其他老师。由于每年的授课教师安排都不一样，因此笔者这里只能对于每门课汇总所有教过该课的老师，无法提供【该老师在哪个学期一定会开】的相关信息。
 
-## Part 2. COEN 3XX Courses
+### 1.2 COEN279 Design & Analysis of Algorithms
+
+### 1.3 Operating Systems
+
+### 1.4 Computer Architecture
+
+## Part 2. COEN 3XX Courses (编号为3开头的课）
 
 
 
