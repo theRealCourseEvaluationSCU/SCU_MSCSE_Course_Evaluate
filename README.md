@@ -120,7 +120,7 @@
 
 ## Part 4. COEN 2XX Courses Other Electives
 ### COEN233 Computer Networks
-教授：
+====To Be Updated====
 
 ### COEN290 Computer Graphics
 教授：Y. Wang
