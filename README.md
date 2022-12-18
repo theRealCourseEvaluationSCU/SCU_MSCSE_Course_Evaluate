@@ -111,10 +111,10 @@
 
 ### COEN359 Design Patterns （不是每学期都有）
 教授：R. Mikkilineni
-  - **Workload及难度：** 全Online授课，load适中，期末考试也是Online。中间需要做一个小Project，除此之外基本没什么作业。
-  - **给分情况：** TBD
+  - **Workload及难度：** 全Online授课，load据上这门课的同学说全程学习时间大概只用了一个星期左右，期末考试也是Online。中间需要做一个小Project，除此之外基本没什么作业。
+  - **给分情况：** 作业基本给接近满分，其他TBD
   - **教授情况：** RMP上基本全是好评。
-  - **是否推荐：** 推荐，尤其如果本身有一定Java基础，学起来相对轻松而且容易拿分。
+  - **是否推荐：** 推荐，尤其如果本身有一定Java基础，学起来相对轻松。
 
 
 ## Part 4. COEN 2XX Courses Other Electives
