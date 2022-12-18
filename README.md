@@ -114,7 +114,14 @@
 
 ## Part 4. COEN 2XX Courses Other Electives
 ### COEN290 Computer Graphics
+教授：Y. Wang
+
 ### COEN241 Cloud Computing
+教授：S. Choi
+  - **Workload及难度：** 有作业，Project和Midterm。Project为云计算相关，大致内容为使用Docker和云服务器部署一个项目/网站。如果之前有full stack项目经验则可以套用到Project里。
+  - **给分情况：** 较为严格，但不会给挂。对22fall，仅有25%的同学拿到A档，70%的同学即便总分上了90也不给A只有B档，剩余5%据说是curve放水了之后才给到了C。
+  - **教授情况：** 难以沟通，拿了B且总分90以上的同学试图Argue最终成绩，但被其以自己已经curve/放水的理由驳回。
+  - **是否推荐：** 不推荐对GPA要求高的同学或需要通过选修课拉高GPA的同学，适合已经上得差不多，没有GPA压力的同学选择。
 
 =====To Be Updated=====
 
