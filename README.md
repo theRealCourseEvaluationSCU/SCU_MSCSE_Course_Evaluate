@@ -73,7 +73,9 @@
 ### 2.2 COEN283 Operating Systems
 目前已知的有以下教授上过：（不完全名单）
 - 教授1: A. Elkady
+=====To Be Updated=====
 - 教授2: M.H. Wang
+=====To Be Updated=====
 
 
 ### 2.3 COEN210 Computer Architecture
@@ -89,8 +91,11 @@
   - **教授情况：** 没有任何sample test，也不划重点，只能依靠学生自己去啃书，如果有问题也可以去office hour沟通答疑解惑。
   - **是否推荐：** 上过的同学无论是否科班，一致表示非常不推荐。即便是科班出身的同学也表示难以复习备考。
 - 教授3: A. Zaky
+=====To Be Updated=====
 - 教授4: Y. Wang
+=====To Be Updated=====
 - 教授5: W. Shang
+=====To Be Updated=====
 
 
 ## Part 3. COEN 3XX Courses (编号为3开头的课）
@@ -109,12 +114,12 @@
   - **教授情况：** RMP上基本全是好评。
   - **是否推荐：** 推荐，尤其如果本身有一定Java基础，学起来相对轻松而且容易拿分。
 
-=====To Be Updated=====
-
 
 ## Part 4. COEN 2XX Courses Other Electives
 ### COEN290 Computer Graphics
 教授：Y. Wang
+  - **Workload及难度：** 有作业，Project和Final Exam。Project需要用Python及第三方库完成，作业和Final Exam有一定难度，如果之前对计算机图形学没有了解的同学直接选可能入门会有些痛苦。
+  - **是否推荐：** Prof. Wang就不必说了，能选到就推荐上。
 
 ### COEN241 Cloud Computing
 教授：S. Choi
@@ -123,7 +128,8 @@
   - **教授情况：** 难以沟通，拿了B且总分90以上的同学试图Argue最终成绩，但被其以自己已经curve/放水的理由驳回。
   - **是否推荐：** 不推荐对GPA要求高的同学或需要通过选修课拉高GPA的同学，适合已经上得差不多，没有GPA压力的同学选择。
 
-=====To Be Updated=====
 
 
 ## Part 5. EMGT Courses
+=====To Be Updated=====
+
