@@ -73,7 +73,9 @@
 ### 2.2 COEN283 Operating Systems
 目前已知的有以下教授上过：（不完全名单）
 - 教授1: A. Elkady
-=====To Be Updated=====
+  - **Workload与难度：** 有作业，Project和期中期末考试。总体量相对不大，但是考试和作业难度较大，较多概念题，考试不允许携带Cheat Sheet，如果只靠考前突击很可能会无法覆盖所有复习的点。Project如果选好Team，对于本身具有一定编程能力的同学而言不算难。
+  - **给分情况：** 给分宽松，据上过的同学说，期末就算只考50分也能拿B，会curve。如果平时好好做作业和Project，最后总分不至于很差。
+  - **是否推荐：** 上过的同学表示相对Prof MH Wang更为推荐Prof Elkady。
 - 教授2: M.H. Wang
 =====To Be Updated=====
 
