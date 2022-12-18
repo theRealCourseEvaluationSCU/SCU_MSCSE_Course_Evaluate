@@ -118,6 +118,9 @@
 
 
 ## Part 4. COEN 2XX Courses Other Electives
+### COEN233 Computer Networks
+教授：
+
 ### COEN290 Computer Graphics
 教授：Y. Wang
   - **Workload及难度：** 有作业，Project和Final Exam。Project需要用Python及第三方库完成，作业和Final Exam有一定难度，如果之前对计算机图形学没有了解的同学直接选可能入门会有些痛苦。
