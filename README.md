@@ -1,4 +1,4 @@
-Last Modified: Jan 18, 2023
+Last Edited: Jan 18, 2023
 ## About Us
 - 我们是SCU MSCSE疫情后恢复线下上课的第一批研究生新生，第一学期经历了**混乱的选课**和**极度的信息缺失与不对称**，以至于有同学**GPA一度跌下2.5，威胁到CPT的办理（CPT要求最低GPA需在3.0以上）**。
 - 创建此GitHub Repository的目的是帮助来到SCU的**CS弱基础转码**或目标找工的同学**打破只能通过微信群获取信息的单一途径/壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量让后来者少走弯路**。老中helps老中！如果觉得这个repo对你有帮助可以点击右上角Star收藏。
@@ -8,7 +8,7 @@ Last Modified: Jan 18, 2023
 
 ## Disclaimer 免责声明
 - 笔者创建该Repository的全过程不曾与任何校内学生组织/非营利组织/盈利性质公司/宗教团体进行合作，纯粹为出于公益目的且完全自发的个人行为。
-- 笔者收集的所有评价一律不针对**学校本身**或**授课教授本人**发表任何言论，仅围绕**课程是否适合转码/找工为主的同学**这一标准进行评价。
+- 笔者收集的所有评价一律不针对**学校本身**发表任何言论，仅围绕**课程是否适合转码/找工为主的同学**这一标准进行评价。
 - 对于标注为22fall新来的教授，不排除会存在后续调整给分标准（变得更严格/更宽松）的情况，本Repo只收集了22 fall的情况，请酌情考虑时效性。
 - 不同人的基础、背景、理解能力都不完全一样，因此不可能做出完全客观符合每位同学情况的评价，在选课中仍然需要以自己的实际情况为主进行选择。每个人都只能为自己的选择负责。
 
@@ -22,15 +22,27 @@ Last Modified: Jan 18, 2023
 
 ## 选课必知必会
 - 下个学期选课的时间通常是在当前学期的第五周（提前批）和开学后的前两周。提前批选课时，每位学生都会被分配一个固定的选课时段（系统会发邮件通知）。一般热门的课在提前批结束前早就被选光了，所以需要注意提前批选课开始结束时机，避免错过时机
-- <span style="color:red">**$50 退课费: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 $50：https://www.scu.edu/engineering/graduate/academic-calendar/**</span>
-- <span style="color:red">**退课款：开学第一周周日前 drop 一门课能收到 100% 退款，第二周周日前 drop 只能收到 50% 退款，第三周 drop 退 25%**</span>
+> __Note__ 选课优先级：老生 > 新生。已修学分越多，分配的选课时间越靠前。但是根据学生中的多个调查反馈，在修相同学分前提下，会按照姓名首字母顺序安排选课时机。官方的说法是随机分配。
+- ${\color{red}$50 退课费}$: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 ${\color{red}$50}$：https://www.scu.edu/engineering/graduate/academic-calendar/
+- ${\color{red}退课款 Deadline}$：正式上课**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
+- 每 quarter 能修的学分上限是 **10 credit units**，相当于两门 4 学分 + 一门 2 学分。如果需要选超过 10 unit，需要提前咨询分配的 academic advisor 意见，填写 overload 表格并且提交给 peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms/。 **新生无法为第一个 quarter 申请 overload**
 - 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
 ![CourseAvail](./CourseAvail.png)
 ![eCampus Enrollment](./eCampusEnrollment.png)
 - F1 学生每个 quarter 需要至少 enroll 8 学分维持 F1 身份，并且最多只能有一门课（2学分或4学分）是纯线上课程 (online classes)
-- SCU CPT Policy: F-1 学生如果需要暑假实习/在读兼职 办理 CPT，必须 enroll ENGR 288/289 这门课，并且满足学校规定的条件：
+- SCU CPT Policy: F-1 学生如果需要暑假实习/在读兼职 办理 CPT，必须 enroll ENGR 288/289 这门 1 学分的课，并且满足学校规定的条件：
   https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/coen-student-policies/
   - ENGR 288 要修满 16学分才能选（Non-transfer SCU credits），ENGR 289 要 24学分
+
+## PoS 表格 - 新生必看
+入学前，COEN Peer Advisor - Michael 会给新生们发邮件提交 foundation course 的 waiver form，也是POS的一部分（POS 即 Program of Studies，如果第一学期没能及时提交这个 POS form，会被学校 hold 选课权限，就选不了课了）。
+- 对于转码同学来说 7 门 foundation courses 分为两类：
+  1. 不算毕业学分需要，自己额外花钱补的三门（汇编逻辑设计数据结构）
+  2. 可以算毕业学分的四门（离散数学，概率论，线性代数，高级编程），但是如果成绩单上有类似的课会被 waive 掉就没办法在 SCU 里选。另外，对于(i)类中的逻辑设计这门课（921C: Introduction to Logic Design），如果没能 waive 掉，**只能选择在学校补习**。汇编和数据结构可以去指定的 community college 学习，也可以在学校选课。**麻烦的原因在于不仅要多花额外的学费，而且还有一定风险难以通过。身边有转码的朋友虽然认真学了，但是上920C那门汇编课拿了 C 以下的。**
+- **Foundation Course 怎么 waive**：如果成绩单上有类似名字的课，可以发 syllabus 给 Michael，最终由 Michael 和你的 advisor 共同决定能否 waive。但是基于文商转码的同学大部分背景都和CS相距甚远，**920c 和 921c 基本没办法waive**。可以尝试和 academic advisor 当面 zoom meeting 沟通，增加 waive 的几率。但是现在这个时间点来说 waive 的难度较大。如果想 waive 需要当着 Michael 面做题，或者参加学校里这两门课的期末考试并拿到C以上。
+- **没法waive这些课只能硬上怎么办**：
+  1. **如果对自己的自学能力没有充分且强大的自信，不要在第一学期GPA不稳定的时候选**：汇编和 logic 对文商转码的同学来说难度较大，而且学校里上这门课的老师讲课不是很好，据身边上过课的转码新生同学反应，考试和平日上课的ppt关系不大。
+  2. **尽量去 Community College 补课**：学校会给一个可以补课的 cc list，可以组队一起学。
 
 ## Part 0. 评价标准
 - 总体标准：身兼找工压力的人和已经拿到实习/全职Offer的人的选课思路应该是不一样的。
@@ -45,7 +57,8 @@ Last Modified: Jan 18, 2023
 ## Part 1. 转码先修课 Foundation Courses: COEN 912/920C/921C
 - 这三门课在Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课，如果Waive失败则需要额外付钱修。
 - 如选择在学校上，则这三门课的教授都是同一位，C. Fussell
-- <span style="color:red">**先修课要前三个学期上完，然后不是每个学期都开的**</span>
+- ${\color{red}先修课要前三个学期上完，但有些课不是每个学期都开的}$
+
 
 ### COEN920C Embedded Systems and Assembly Language
 - **Workload与难度:** 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
@@ -150,8 +163,20 @@ Last Modified: Jan 18, 2023
   - **教授情况：** 难以沟通，拿了B且总分90以上的同学试图Argue最终成绩，但被其以自己已经curve/放水的理由驳回。
   - **是否推荐：** 不推荐对GPA要求高的同学或需要通过选修课拉高GPA的同学，适合已经上得差不多，没有GPA压力的同学选择。
 
+## Part 5. COEN 教师/讲师 评价（Authored by 某位转码同学）
+### 避雷
+如果不想影响GPA或CPT，也不想学到产生 mental issue，这些教授的课请尽量避免在关键找工期选择：
+- N. Tran：对数理基础好的人来说学起来普遍反映也算吃力，更何况是想找工的转码小菜鸡？我和认识的一位印度女生（科班）是同学两人学的都很认真也尽力做了作业，只是考试没到平均分，都只拿了C。另一位期中考试到平均分的科班同学也只有B-。**如果有人推荐 Tran，应该是因为推荐的人本身算法基础就很好而且乐于学习新知识。**
+- R. Bruce：317 分布式系统的其中一位教授，第一堂课直说自己给分会很严格，还说出了以下的“经典名言”：**“我给分会很严格，因为life就是这样的。你们以后进了公司也会这样，所以提前体验一下没什么不好的。”** 学期最后基本只剩 3、4 个学生。
+- K. Pahlavan：不划重点。期末复习前如果基础不好，很容易迷失。而且 22 fall 学期的时候没有 curve，导致**有些转码的同学认真学了也拿了C**。
+- A. Elkady：据上过课的小伙伴说，学生如果想要期末拿到成绩，需要先在 RateMyProfessor 上给他打好评，**拿截图换成绩**。有朋友吐槽说这个都可以向学校举报了，但是不知道为什么一直没人举报。给分情况未知。
+- S. Jahangiri：据上过 COEN380 Advanced Database Systems 课的小伙伴说，programming project 可能会要求学生一行一行解释代码。**如果解释不出来或含糊不清，他会在心里默默给你打一个F**，并认为你是抄的代码，**并且在学期最后真的给你一个 F 并上报学校。还说他不管你是F1还是国际学生还是要找工，在他的课堂上只能听他的**（大概意思）。
 
+（PS：其他教授的情况还在更新中目前给到的这些都是转码找工人100%建议避开的教授不在这里推荐某门课的原因：就算是转码生大家对课程的要求也不一样不想做不负责任的推荐但是避雷的点都是公认的所以只提及了尽量避开的老师）
+### 推荐
+(WIP)
 
 ## Part 5. EMGT Courses
 =====To Be Updated=====
 
+## 
