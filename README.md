@@ -38,7 +38,7 @@ Last Edited: Jan 18, 2023
 入学前，COEN Peer Advisor - Michael 会给新生们发邮件提交 foundation course 的 waiver form，也是POS的一部分（POS 即 Program of Studies，如果第一学期没能及时提交这个 POS form，会被学校 hold 选课权限，就选不了课了）。
 - 对于转码同学来说 7 门 foundation courses 分为两类：
   1. 不算毕业学分需要，自己额外花钱补的三门（汇编逻辑设计数据结构）
-  2. 可以算毕业学分的四门（离散数学，概率论，线性代数，高级编程），但是如果成绩单上有类似的课会被 waive 掉就没办法在 SCU 里选。另外，对于（1）类中的逻辑设计这门课（921C: Introduction to Logic Design），如果没能 waive 掉，**只能选择在学校补习**。汇编和数据结构可以去指定的 community college 学习，也可以在学校选课。**麻烦的原因在于不仅要多花额外的学费，而且还有一定风险难以通过。身边有转码的朋友虽然认真学了，但是上920C那门汇编课拿了 C 以下的。**
+  2. 可以算毕业学分的四门（离散数学，概率论，线性代数，高级编程），但是如果成绩单上有类似的课会被 waive 掉就没办法在 SCU 里选。另外，对于(i)类中的逻辑设计这门课（921C: Introduction to Logic Design），如果没能 waive 掉，**只能选择在学校补习**。汇编和数据结构可以去指定的 community college 学习，也可以在学校选课。**麻烦的原因在于不仅要多花额外的学费，而且还有一定风险难以通过。身边有转码的朋友虽然认真学了，但是上920C那门汇编课拿了 C 以下的。**
 - **Foundation Course 怎么 waive**：如果成绩单上有类似名字的课，可以发 syllabus 给 Michael，最终由 Michael 和你的 advisor 共同决定能否 waive。但是基于文商转码的同学大部分背景都和CS相距甚远，**920c 和 921c 基本没办法waive**。可以尝试和 academic advisor 当面 zoom meeting 沟通，增加 waive 的几率。但是现在这个时间点来说 waive 的难度较大。如果想 waive 需要当着 Michael 面做题，或者参加学校里这两门课的期末考试并拿到C以上。
 - **没法waive这些课只能硬上怎么办**：
   1. **如果对自己的自学能力没有充分且强大的自信，不要在第一学期GPA不稳定的时候选。**汇编和 logic 对文商转码的同学来说难度较大，而且学校里上这门课的老师讲课不是很好，据身边上过课的转码新生同学反应，考试和平日上课的ppt关系不大。
