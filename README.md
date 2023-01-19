@@ -25,7 +25,7 @@ Last Edited: Jan 18, 2023
 > __Note__ 选课优先级：老生 > 新生。已修学分越多，分配的选课时间越靠前。但是根据学生中的多个调查反馈，在修相同学分前提下，会按照姓名首字母顺序安排选课时机。官方的说法是随机分配。
 - ${\color{red}$50 退课费}$: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 ${\color{red}$50}$：https://www.scu.edu/engineering/graduate/academic-calendar/
 - ${\color{red}退课款 Deadline}$：正式上课**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
-- 每 quarter 能修的学分上限是 **10 credit units**，相当于两门 4 学分 + 一门 2 学分。如果需要选超过 10 unit，需要提前咨询分配的 academic advisor 意见，填写 overload 表格并且提交给 peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms/。**新生无法为第一个 quarter 申请 overload**
+- 每 quarter 能修的学分上限是 **10 credit units**，相当于两门 4 学分 + 一门 2 学分。如果需要选超过 10 unit，需要提前咨询分配的 academic advisor 意见，填写 overload 表格并且提交给 peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms/。 **新生无法为第一个 quarter 申请 overload**
 - 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
 ![CourseAvail](./CourseAvail.png)
 ![eCampus Enrollment](./eCampusEnrollment.png)
@@ -41,8 +41,8 @@ Last Edited: Jan 18, 2023
   2. 可以算毕业学分的四门（离散数学，概率论，线性代数，高级编程），但是如果成绩单上有类似的课会被 waive 掉就没办法在 SCU 里选。另外，对于(i)类中的逻辑设计这门课（921C: Introduction to Logic Design），如果没能 waive 掉，**只能选择在学校补习**。汇编和数据结构可以去指定的 community college 学习，也可以在学校选课。**麻烦的原因在于不仅要多花额外的学费，而且还有一定风险难以通过。身边有转码的朋友虽然认真学了，但是上920C那门汇编课拿了 C 以下的。**
 - **Foundation Course 怎么 waive**：如果成绩单上有类似名字的课，可以发 syllabus 给 Michael，最终由 Michael 和你的 advisor 共同决定能否 waive。但是基于文商转码的同学大部分背景都和CS相距甚远，**920c 和 921c 基本没办法waive**。可以尝试和 academic advisor 当面 zoom meeting 沟通，增加 waive 的几率。但是现在这个时间点来说 waive 的难度较大。如果想 waive 需要当着 Michael 面做题，或者参加学校里这两门课的期末考试并拿到C以上。
 - **没法waive这些课只能硬上怎么办**：
-  1. **如果对自己的自学能力没有充分且强大的自信，不要在第一学期GPA不稳定的时候选。**汇编和 logic 对文商转码的同学来说难度较大，而且学校里上这门课的老师讲课不是很好，据身边上过课的转码新生同学反应，考试和平日上课的ppt关系不大。
-  2. **尽量去 Community College 补课。**学校会给一个可以补课的 cc list，可以组队一起学。
+  1. **如果对自己的自学能力没有充分且强大的自信，不要在第一学期GPA不稳定的时候选**：汇编和 logic 对文商转码的同学来说难度较大，而且学校里上这门课的老师讲课不是很好，据身边上过课的转码新生同学反应，考试和平日上课的ppt关系不大。
+  2. **尽量去 Community College 补课**：学校会给一个可以补课的 cc list，可以组队一起学。
 
 ## Part 0. 评价标准
 - 总体标准：身兼找工压力的人和已经拿到实习/全职Offer的人的选课思路应该是不一样的。
