@@ -22,8 +22,8 @@ Last Modified: Jan 18, 2023
 
 ## 选课必知必会
 - 下个学期选课的时间通常是在当前学期的第五周（提前批）和开学后的前两周。提前批选课时，每位学生都会被分配一个固定的选课时段（系统会发邮件通知）。一般热门的课在提前批结束前早就被选光了，所以需要注意提前批选课开始结束时机，避免错过时机
-- $${\color{red}$50 退课费}$$: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 $${\color{red}$50}$$：https://www.scu.edu/engineering/graduate/academic-calendar/
-- $${\color{red}$50 退课款}$$：开学**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
+- ${\color{red}$50 退课费}$: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 ${\color{red}$50}$：https://www.scu.edu/engineering/graduate/academic-calendar/
+- ${\color{red}$50 退课款}$：开学**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
 
 - 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
 ![CourseAvail](./CourseAvail.png)
@@ -46,7 +46,7 @@ Last Modified: Jan 18, 2023
 ## Part 1. 转码先修课 Foundation Courses: COEN 912/920C/921C
 - 这三门课在Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课，如果Waive失败则需要额外付钱修。
 - 如选择在学校上，则这三门课的教授都是同一位，C. Fussell
-- $${\color{red}先修课要前三个学期上完，但有些课不是每个学期都开的}$$
+- ${\color{red}先修课要前三个学期上完，但有些课不是每个学期都开的}$
 
 
 ### COEN920C Embedded Systems and Assembly Language
