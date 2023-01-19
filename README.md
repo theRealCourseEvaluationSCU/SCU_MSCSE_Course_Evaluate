@@ -1,4 +1,6 @@
-Last Edited: Jan 18, 2023
+Last Edited: Jan 18, 2023  
+<img alt="SCU LOGO" src="./Mission-Horizontal-PMS201.png" style="max-width: 324px"/>
+
 ## About Us
 - 我们是SCU MSCSE疫情后恢复线下上课的第一批研究生新生，第一学期经历了**混乱的选课**和**极度的信息缺失与不对称**，以至于有同学**GPA一度跌下2.5，威胁到CPT的办理（CPT要求最低GPA需在3.0以上）**。
 - 创建此GitHub Repository的目的是帮助来到SCU的**CS弱基础转码**或目标找工的同学**打破只能通过微信群获取信息的单一途径/壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量让后来者少走弯路**。老中helps老中！如果觉得这个repo对你有帮助可以点击右上角Star收藏。
@@ -27,8 +29,12 @@ Last Edited: Jan 18, 2023
 - ${\color{red}退课款 Deadline}$：正式上课**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
 - 每 quarter 能修的学分上限是 **10 credit units**，相当于两门 4 学分 + 一门 2 学分。如果需要选超过 10 unit，需要提前咨询分配的 academic advisor 意见，填写 overload 表格并且提交给 peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms/。 **新生无法为第一个 quarter 申请 overload**
 - 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
-![CourseAvail](./CourseAvail.png)
-![eCampus Enrollment](./eCampusEnrollment.png)
+<p style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<img alt="CourseAvail" src="./CourseAvail.png" style=""/>
+<span style="height: 50px;">Search Course Offerings on CourseAvail</span>
+<img alt="eCampus Enrollment" src="./eCampusEnrollment.png" style=""/>
+<span style="height: 50px;">在 eCampus 上注册课程</span>
+</p>
 - F1 学生每个 quarter 需要至少 enroll 8 学分维持 F1 身份，并且最多只能有一门课（2学分或4学分）是纯线上课程 (online classes)
 - SCU CPT Policy: F-1 学生如果需要暑假实习/在读兼职 办理 CPT，必须 enroll ENGR 288/289 这门 1 学分的课，并且满足学校规定的条件：
   https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/coen-student-policies/
