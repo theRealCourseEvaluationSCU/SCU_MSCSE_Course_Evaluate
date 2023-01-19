@@ -1,3 +1,4 @@
+Last Modified: Jan 18, 2023
 ## About Us
 - 我们是SCU MSCSE疫情后恢复线下上课的第一批研究生新生，第一学期经历了**混乱的选课**和**极度的信息缺失与不对称**，以至于有同学**GPA一度跌下2.5，威胁到CPT的办理（CPT要求最低GPA需在3.0以上）**。
 - 创建此GitHub Repository的目的是帮助来到SCU的**CS弱基础转码**或目标找工的同学**打破只能通过微信群获取信息的单一途径/壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量让后来者少走弯路**。老中helps老中！如果觉得这个repo对你有帮助可以点击右上角Star收藏。
@@ -19,7 +20,17 @@
   - 教授姓氏示例：Wang
 - 可同时配合Rate My Professor（https://www.ratemyprofessors.com/school?sid=882) 进行使用。如果有教授被提及Tough Grader等评价，珍惜GPA，请务必慎重选择该位教授的课程。
 
-
+## 选课必知必会
+- 下个学期选课的时间通常是在当前学期的第五周（提前批）和开学后的前两周。提前批选课时，每位学生都会被分配一个固定的选课时段（系统会发邮件通知）。一般热门的课在提前批结束前早就被选光了，所以需要注意提前批选课开始结束时机，避免错过时机
+- <span style="color:red">**$50 退课费: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 $50：https://www.scu.edu/engineering/graduate/academic-calendar/**</span>
+- <span style="color:red">**退课款：开学第一周周日前 drop 一门课能收到 100% 退款，第二周周日前 drop 只能收到 50% 退款，第三周 drop 退 25%**</span>
+- 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
+![CourseAvail](./CourseAvail.png)
+![eCampus Enrollment](./eCampusEnrollment.png)
+- F1 学生每个 quarter 需要至少 enroll 8 学分维持 F1 身份，并且最多只能有一门课（2学分或4学分）是纯线上课程 (online classes)
+- SCU CPT Policy: F-1 学生如果需要暑假实习/在读兼职 办理 CPT，必须 enroll ENGR 288/289 这门课，并且满足学校规定的条件：
+  https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/coen-student-policies/
+  - ENGR 288 要修满 16学分才能选（Non-transfer SCU credits），ENGR 289 要 24学分
 
 ## Part 0. 评价标准
 - 总体标准：身兼找工压力的人和已经拿到实习/全职Offer的人的选课思路应该是不一样的。
@@ -31,9 +42,10 @@
   - 是否推荐
 
 
-## Part 1. COEN 912/920C/921C
+## Part 1. 转码先修课 Foundation Courses: COEN 912/920C/921C
 - 这三门课在Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课，如果Waive失败则需要额外付钱修。
 - 如选择在学校上，则这三门课的教授都是同一位，C. Fussell
+- <span style="color:red">**先修课要前三个学期上完，然后不是每个学期都开的**</span>
 
 ### COEN920C Embedded Systems and Assembly Language
 - **Workload与难度:** 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
