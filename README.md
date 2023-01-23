@@ -1,156 +1,148 @@
-Last Edited: Jan 18, 2023  
+Language: English | [中文（简体）](./README.zh-cn.md)  
+Last Edited: Jan 24, 2023  
 <img alt="SCU LOGO" src="./Mission-Horizontal-PMS201.png" style="max-width: 324px"/>
 
-## About Us
-- 我们是SCU MSCSE疫情后恢复线下上课的第一批研究生新生，第一学期经历了**混乱的选课**和**极度的信息缺失与不对称**，以至于有同学**GPA一度跌下2.5，威胁到CPT的办理（CPT要求最低GPA需在3.0以上）**。
-- 创建此GitHub Repository的目的是帮助来到SCU的**CS弱基础转码**或目标找工的同学**打破只能通过微信群获取信息的单一途径/壁垒**，努力呈现对于普通学生而言真实的MSCSE课程体验，**尽量让后来者少走弯路**。老中helps老中！如果觉得这个repo对你有帮助可以点击右上角Star收藏。
-- 但我们的经验无法覆盖所有课程，也可能有不正确之处。如果你上过的课程没有罗列到，欢迎一起分享经验为后来者减少踩坑几率，可以在Issues里按照【Workload及难度，给分情况，教授情况，是否推荐】四方面写下自己对某门课的评价，也可以给scu_mscse_course_rating@proton.me发邮件联系笔者，可以直接发文字版，或zoom meeting你来口述，笔者来整理成文（出于双方互信，会隐去你的名字在这个repo里发布评价）。
-- 感谢所有给本Repo提供经验分享的朋友们！
+## About This Repo
+- This GitHub repo aims to provide **honest**, **anonymous** reviews on MSCSE courses/professors, from Santa Clara University's graduate students. The purpose of this repo is to offer new/current graduate students (all major backgrounds, including non-CS) guidance on course enrollment and give prospective students insights into SCU's MSCSE program. If you think this repo is helpful, you may add this repo to your bookmark and **star this repo (click star on upper right corner)**.
+- This is a WIP repo: the information listed below don't cover all courses, and there may be inaccuracies. If the courses you have attended are not listed, you are welcomed to share your opinions and insights with us! You can create a **new Issue** in this repo, titled [course number, professor], and your review should include four parts: [Course workload and difficulty, Grading (if it's curved, how much), professor review, and whether it is recommended]. You can also send an email to [scu_mscse_course_rating@proton.me](mailto:scu_mscse_course_rating@proton.me) to contact the author. You can either send your review in text, or via a scheduled zoom meeting. All reviews will be posted **anonymously**.
+- Thanks to all the friends who provided contents for or shared this Repo!
 
 
-## Disclaimer 免责声明
-- 笔者创建该Repository的全过程不曾与任何校内学生组织/非营利组织/盈利性质公司/宗教团体进行合作，纯粹为出于公益目的且完全自发的个人行为。
-- 笔者收集的所有评价一律不针对**学校本身**发表任何言论，仅围绕**课程是否适合转码/找工为主的同学**这一标准进行评价。
-- 对于标注为22fall新来的教授，不排除会存在后续调整给分标准（变得更严格/更宽松）的情况，本Repo只收集了22 fall的情况，请酌情考虑时效性。
-- 不同人的基础、背景、理解能力都不完全一样，因此不可能做出完全客观符合每位同学情况的评价，在选课中仍然需要以自己的实际情况为主进行选择。每个人都只能为自己的选择负责。
+## Disclaimer
+- The author is not affiliated to any on-campus student organization/non-profit organization/profit-making company/religious group. During the making of the repo, the author did not collaborate with any parties other than SCU's student body.
+- All the evaluations compiled by the author do not make any remarks on **the school itself**, but only evaluate whether the **course is suitable for students who are also actively looking for jobs**.
+- Keep in mind that information in this repo is time-sensitive. We do not ruled out the possibility that there will be subsequent adjustments to the scoring standards (become stricter/looser) on the courses/professors. This repo only collects informaiton from students starting after 22falls, so please take the timeliness into your mind.
+- People have different backgrounds, knowledge, experiences, and learning abilities. Therefore, it is impossible to make an evaluation that is completely impartial and specific to each student's situation. You still need to make choices based on your actual situation when deciding which courses to enroll. Everyone is only responsible for their own choices.
 
 
-## 如何使用本Repository
-- 使用Ctrl+F快捷键，搜索课程编号/课程名称/教授姓氏。
-  - 课程编号示例：COEN288（注意不要带空格，不然无法直接跳转到对应的评价）
-  - 课程名称示例：Design Patterns
-  - 教授姓氏示例：Wang
-- 可同时配合Rate My Professor（https://www.ratemyprofessors.com/school?sid=882) 进行使用。如果有教授被提及Tough Grader等评价，珍惜GPA，请务必慎重选择该位教授的课程。
-
-## 选课必知必会
-- 下个学期选课的时间通常是在当前学期的第五周（提前批）和开学后的前两周。提前批选课时，每位学生都会被分配一个固定的选课时段（系统会发邮件通知）。一般热门的课在提前批结束前早就被选光了，所以需要注意提前批选课开始结束时机，避免错过时机
-> __Note__ 选课优先级：老生 > 新生。已修学分越多，分配的选课时间越靠前。但是根据学生中的多个调查反馈，在修相同学分前提下，会按照姓名首字母顺序安排选课时机。官方的说法是随机分配。
-- ${\color{red}$50 退课费}$: 对于 Graduate Engineering 的学生来说，从选课到正式上课前一周（学期开始）退课换课都是免费的，但是之后每退/换一门课需要额外交 ${\color{red}$50}$：https://www.scu.edu/engineering/graduate/academic-calendar/
-- ${\color{red}退课款 Deadline}$：正式上课**第一周周日**前 drop 一门课能收到 **100%** 退款，第二周周日前 drop 只能收到 **50%** 退款，第三周 drop 退 **25%**
-- 每 quarter 能修的学分上限是 **10 credit units**，相当于两门 4 学分 + 一门 2 学分。如果需要选超过 10 unit，需要提前咨询分配的 academic advisor 意见，填写 overload 表格并且提交给 peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms/。 **新生无法为第一个 quarter 申请 overload**
-- 可通过 CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule 查看课程信息，并通过 eCampus -> SCU Manage Class 选课
+## Must-knows of Course Enrollment on eCampus
+- The time of course enrollment for the next quarter is usually the fifth week of the current quarter (first batch) and the first two weeks after the start of the quarter (second batch). Each student will be assigned a fixed interval for their first batch enrollment (the system will send an email notification). Generally, seats of popular courses would be filled early during first batch enrollment, so you need to pay special attention to your assigned enrollment time.
+> __Note__ Assigned enrollment time: old students > new students. The more credits you have taken as an SCU student, the earlier your assigned enrollment time. However, according to anonymous reports from multiple students, given the same credits, the assigned enrollment time will be arranged in alphabetical order according to name order. The official announcement is that students are randomly assigned in a tie situation.
+- ${\color{red}$50 Drop/Swap Penalty}$: It is free to drop/swap courses from the first batch enrollment to one week before first day of class (quarter start). After that, each course drop/swap costs an additional ${\color{red}$50}$: https://www.scu.edu/engineering/graduate/academic-calendar/. **This only applies to graduate engineering students.**
+- ${\color{red}Deadline}$: You may receive a **100%** refund if you drop a class **before the Sunday of the first week of class**, only **50%** before **the Sunday of the second week**, and only **25%** in the third week.
+- The default max credits units a student can enroll each quarter is **10 credit units**, which is equivalent to two 4-credits classes + one 2-credits class. If you need to enroll more than 10 units, you need to consult your assigned academic advisor in advance, fill in the overload form and submit it to the peer advisor: https://www.scu.edu/engineering/current-student-resources/current-graduate-students/forms /. **New students cannot apply for overload for their first quarter of study**
+- You can view course information on CourseAvail https://www.scu.edu/apps/courseavail/?p=schedule and enroll on eCampus -> SCU Manage Class
 <p style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
 <img alt="CourseAvail" src="./CourseAvail.png" style=""/>
 <span style="height: 50px;">Search Course Offerings on CourseAvail</span>
 <img alt="eCampus Enrollment" src="./eCampusEnrollment.png" style=""/>
-<span style="height: 50px;">在 eCampus 上注册课程</span>
+<span style="height: 50px;">Register for courses on eCampus</span>
 </p>
-- F1 学生每个 quarter 需要至少 enroll 8 学分维持 F1 身份，并且最多只能有一门课（2学分或4学分）是纯线上课程 (online classes)
-- SCU CPT Policy: F-1 学生如果需要暑假实习/在读兼职 办理 CPT，必须 enroll ENGR 288/289 这门 1 学分的课，并且满足学校规定的条件：
-  https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/coen-student-policies/
-  - ENGR 288 要修满 16学分才能选（Non-transfer SCU credits），ENGR 289 要 24学分
+- F1 students need to enroll at least 8 credits per quarter to maintain F1 status, and at most one course (2 credits or 4 credits) out of the 8 credits can be a purely online courses
+- SCU CPT Policy: If F-1 students need to apply for CPT for summer internship/part-time job, they must enroll in ENGR 288/289, a 1-credit course, and meet the school's requirements:
+   https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/coen-student-policies/
+   - ENGR 288 requires students to have taken 16 credit units to enroll (Non-transfer SCU credit units), ENGR 289 requires 24 credit units
 
-## PoS 表格 - 新生必看
-入学前，COEN Peer Advisor - Michael 会给新生们发邮件提交 foundation course 的 waiver form，也是POS的一部分（POS 即 Program of Studies，如果第一学期没能及时提交这个 POS form，会被学校 hold 选课权限，就选不了课了）。
-- 对于转码同学来说 7 门 foundation courses 分为两类：
-  1. 不算毕业学分需要，自己额外花钱补的三门（汇编逻辑设计数据结构）
-  2. 可以算毕业学分的四门（离散数学，概率论，线性代数，高级编程），但是如果成绩单上有类似的课会被 waive 掉就没办法在 SCU 里选。另外，对于(i)类中的逻辑设计这门课（921C: Introduction to Logic Design），如果没能 waive 掉，**只能选择在学校补习**。汇编和数据结构可以去指定的 community college 学习，也可以在学校选课。**麻烦的原因在于不仅要多花额外的学费，而且还有一定风险难以通过。身边有转码的朋友虽然认真学了，但是上920C那门汇编课拿了 C 以下的。**
-- **Foundation Course 怎么 waive**：如果成绩单上有类似名字的课，可以发 syllabus 给 Michael，最终由 Michael 和你的 advisor 共同决定能否 waive。但是基于文商转码的同学大部分背景都和CS相距甚远，**920c 和 921c 基本没办法waive**。可以尝试和 academic advisor 当面 zoom meeting 沟通，增加 waive 的几率。但是现在这个时间点来说 waive 的难度较大。如果想 waive 需要当着 Michael 面做题，或者参加学校里这两门课的期末考试并拿到C以上。
-- **没法waive这些课只能硬上怎么办**：
-  1. **如果对自己的自学能力没有充分且强大的自信，不要在第一学期GPA不稳定的时候选**：汇编和 logic 对文商转码的同学来说难度较大，而且学校里上这门课的老师讲课不是很好，据身边上过课的转码新生同学反应，考试和平日上课的ppt关系不大。
-  2. **尽量去 Community College 补课**：学校会给一个可以补课的 cc list，可以组队一起学。
+## PoS form - for new students
+During the first quarter, you need to submit a Program of Study form to COEN Peer Advisor - Michael. You can use this form to plan out which courses to take for your MSCSE program, and which foundation courses you can waive as well. If the POS form is not submitted by the end of your first quarter, the school would place a hold on your course enrollment of next quarter (you couldn't enroll in any courses).
+- For students coming from non-CS background, you're required to take 7 foundation courses, which are divided into two categories:
+   1. Three courses not counting towards graduation requirements: you have to spend extra money (assembly, logic design, and basic data structure)
+   2. Four courses (discrete mathematics, probability theory, linear algebra, advanced programming) can be counted towards graduation requirements, but if you have similar courses on your undergraduate transcript, they will be waived and you can't enroll into those courses in SCU. In addition, for the logic design course (921C: Introduction to Logic Design) in category (i), if you fail to waive it, **you can only take it at SCU**. Assembly and data structures can be studied at a designated community college, or you can enroll them at SCU. **The trouble is that not only will you have to spend extra tuition on foundation courses, but you may also risk that it will be difficult to get a passing grade. Some friends with non-CS background studied hard, but they took the assembly class of 920C and got below C.**
+- **How to waive Foundation Courses**: If there are courses with similar names on the transcript, you can send the course syllabus to Michael, and finally Michael and your advisor will jointly decide whether you can waive it. However, most students from non-CS backgrounds haven't taken assembly language and logic design courses in their undergrad studies, **920c and 921c are basically unable to be waived**. You can try to talk the academic advisor in a face-to-face zoom meeting to increase your chances of waive these two courses. There're two waiver options: 1) you can do an in-person quiz in front of Michael, or 2) contact professors of these two courses, only take the final exam, and get a C or above.
+- **I can't waive these classes, what should I do?**:
+   1. **If you do not believe in your self-learning ability, do not enroll in these two courses in your first quarter of study**: assembly and logic are more difficult for students coming from non-CS background, and the instructors of these two courses are not very good at lecturing the course materials. According to the students' feedback, the exams of these two courses have different contents from the ppt used in the teaching of these courses.
+   2. **Enroll in similar courses in local Community College**: Consult peer advisor for a list of designated community colleges in which you may take similar courses to waive taking them at SCU.
 
-## Part 0. 评价标准
-- 总体标准：身兼找工压力的人和已经拿到实习/全职Offer的人的选课思路应该是不一样的。
-- To be specific，前者更适合上【给分合理】【难度适中】的课。这不仅是因为在找工时（特别是转码的同学）很难应对找工面试导致的时间分配压力，更是因为如果遇到给分严格的教授（如给C-/对应GPA1.7），**对于国际生而言极度可能导致CPT无法办理/无法毕业**，让自己陷入被动局面。后者在找工压力减轻的前提下可以基于自己对CS领域的兴趣和热情选择【对基础要求更高】【更能学到东西】的课。
-- 因此对于上过的课，评价时会尽量分为以下几点：
-  - Workload与难度
-  - 给分情况
-  - 教授情况
-  - 是否推荐
+## Part 0. Evaluation Criteria
+- Baseline Standard: People who are under pressure to find a job/internship should have different course plannings from those who got an internship/full-time offer.
+- To be specific, students under pressure to find job are more suitable to take [reasonable grading] [moderate difficulty] classes. This is not only because they have to spend time preparing for job interviews (especially students w/ non-CS background), but also because your are more likely to encounter a professor who has stricter grading standards in more difficult courses (prone to give C- grades / corresponding to GPA 1.7), **For international students, low grades will result in difficulties of enrolling into CPT courses.** If you've secured a job already, you may choose courses based on your interests in the CS field, which usually have more workload than the aforementioned lightweight courses.
+- Therefore, each evaluation consists of the following four parts:
+   - Workload and difficulty
+   - Grading Criteria & Grading Histories
+   - Evaluation on Professor
+   - Recommend this course?
 
 
-## Part 1. 转码先修课 Foundation Courses: COEN 912/920C/921C
-- 这三门课在Waiver Form中不算毕业46学分，需通过本科成绩单Waive或在CC补课，如果Waive失败则需要额外付钱修。
-- 如选择在学校上，则这三门课的教授都是同一位，C. Fussell
-- ${\color{red}先修课要前三个学期上完，但有些课不是每个学期都开的}$
+## Part 1. Foundation Courses: COEN 912/920C/921C (for students w/ non-CS backgrounds)
+- These three courses don't count towards the 46 credit units of graduation requirements. You can waive these three courses 1) if you can show you've taken similar courses in your undergrad transcript, or 2) take simlar courses in approved local community colleges. If you failed to waive them, you have to take them at SCU and pay extra tuition.
+- If you decide to take them at SCU, the instructor of these three courses is the same professor: C. Fussell
+- ${\color{red}You are asked to complete these three foundation courses within the first three quarter of study, but some of them are not offered each quarter}$
 
 
 ### COEN920C Embedded Systems and Assembly Language
-- **Workload与难度:** 作业不需要提交，但需要练习，做题要熟练，不然考试照着cheatsheet都会来不及。
-- **给分情况：** 纯粹由考试组成，两次quiz30%，midterm30%，final40%。midterm考了很多array index的问题，这部分内容midterm之后才开始讲，可谓措手不及。Final也是考了很多最后两章的内容，而老师只花了一周的时间草草过一遍，出现了不少homework也没见过的题型。虽然可以带cheatsheet，但由于题量很大查阅也会耗时，导致不少人在这节课翻车，保持每次都在平均分大概能保住B，而每次只比平均分低一两分都可能到C。homework的题型只能保住B grade，会有一些没见过的考题。**甚至会给到D的grade。**
-- **教授情况：** 教学质量堪忧，纯粹念ppt且语调催眠。考试完会有zoom review，但不发solution。可发邮件咨询问题，可zoom，但没有office hour。
-- **是否推荐：** 上过的科班出身同学表示：“（无论是否有工作Offer）都没有任何理由选这门课以及912/921，纯属花钱买罪受，还不算毕业credit。” 建议尝试各种办法Waive，不然就去de anza上网课。笔者补充：如果觉得还是需要补习一下这方面的知识，也建议尽量不要在第一个quarter选，可以等自己适应一段时间学校的学习节奏之后再选。
+- **Workload and Difficulty:** The homework does not need to be submitted, but it needs to be practiced. You must be proficient in doing the questions, otherwise the exam will be too late according to the cheatsheet.
+- **Grading Criteria & Grading Histories:** It is purely composed of exams, twice quiz30%, midterm30%, final40%. Midterm took a lot of array index questions, and this part of the content was only started after midterm, which can be described as unprepared. The final also took a lot of content in the last two chapters, but the teacher only spent a week to go through it briefly, and there were many question types that had never been seen in homework. Although you can bring a cheatsheet, but due to the large amount of questions, it will be time-consuming to check, causing many people to overturn in this class. Keeping the average score every time can probably keep the B, and each time it is only one or two points lower than the average. All possible to C. The homework question type can only keep the B grade, and there will be some exam questions that have not been seen before. ** Even a grade of D will be given. **
+- **Evaluation on Professor:** The quality of teaching is worrying, purely reading ppt and the tone is hypnotic. There will be a zoom review after the exam, but no solution. You can send emails to ask questions, and you can zoom, but there is no office hour.
+- **Recommend this course?** A classmate who has attended said: "[Regardless of whether there is a job offer] there is no reason to choose this course and 912/921. It is recommended to try various ways to Waive, or go to de anza for online classes. The author added: If you feel that you still need to study this knowledge, it is also recommended that you try not to choose in the first quarter, and you can choose after you adapt to the learning rhythm of the school for a period of time.
 
-
-
-
-## Part 2. COEN Core Courses （核心课程）
-- 绝大多数同学的Core Course: 279（算法），283（操作系统），210（Computer Architecture）。据说极个别CS科班同学也有这三门课被Waive，因此只能选这三门课Advanced版本的情况（279->**3**79,283->**3**83,...）。
-- 对于这三门核心课程，每quarter通常会有1-3名教授同时提供课程。由于每年的授课教师安排都不一样，因此笔者这里只能对于每门课汇总所有教过的老师，无法提供【该老师在哪个学期一定会开】的相关信息。
+## Part 2. COEN Core Courses
+- Core Courses of most students: 279 (Algorithm), 283 (Operating System), 210 (Computer Architecture). It is said that very few students in CS majors also have these three courses being Waived, so they can only choose the Advanced version of these three courses (279->**3**79, 283->**3**83,...).
+- For these three core courses, there are usually 1-3 professors in each quarter to provide courses at the same time. Since the arrangement of teaching teachers is different every year, the author here can only summarize all the teachers who have taught each course, and cannot provide relevant information [which semester the teacher will definitely teach].
 
 ### 2.1 COEN279 Design & Analysis of Algorithms
-目前已知的有以下教授上过：（不完全名单）
-- 教授1: N. Tran
-  - **Workload与难度:** Workload方面，每周都有作业，每次作业2-3道题，基本要花费半天-一天的时间研究才能确保正确率。考试共2次（期中+期末），题量较大，需要手写代码且不允许携带CheatSheet。难度方面，期中考试之前相比于算法，更像数学证明课，考试和作业的题型更为接近。期中考试后则会涉及许多高难度算法，期末考试普遍反映难度很大，需要在两个小时内手撕DP，NP-Hard证明等题。
-  - **给分情况：** 考试占比极大，共80%，作业就算有8次也总共只占20%。因此考试的表现对GPA起绝对的决定性作用。根据上届及这届的情况，即便每次作业和考试基本都在平均分上，也可能会给B-。如果有考试低于平均分，基本会给C及以下。如果每次考试和作业都超出平均分较多，则基本为A。Grader对作业前3次打分极为严格，根据身边同学的实际经验来看，前三次作业即便少写了一句总结性结论或中间推导过程中的公式都可能会扣掉一半的分数。
-  - **教授情况：** 会在考前给出sample test，如果有问题也可以去office hour沟通答疑解惑。但是如果涉及考试是否会考XXX等问题，不会做出正面回答，不利于复习备考。
-  - **是否推荐：** 对算法和数学基础要求较高，如果大学阶段并未系统学习过数据结构与各种常见算法知识，不建议在找工期间选择。如果想要在大学的算法基础上加深对于算法的认识且**不在乎给分**，或已经有稳定的Offer想要进一步提升自己，则建议选择。
-- 教授2: Y. Wang
-  - **Workload与难度：** 据上过的同学说，作业考试基本都是Leetcode题。与其他老师对比鲜明。
-  - **教授情况：** 据上过课的同学表示板书很认真且清晰明了，DP/NP-hard证明问题会一步步讲。
-  - **是否推荐：** 如果能选到的话，非常推荐在找工期间选择。（一个**SCU选课的坑点**是：对于新生而言，选课优先级比老生靠后，这也导致了轮到新生选课的时候，通常选不到Prof Wang的课。在选不到他的情况下，建议考虑Zaky或Nath。）
-- 教授3: A. Zaky
-  - **Workload与难度：** 作业量适中，难度适中。只要不是完全划水，上课稍微认真听听课，作业好好写，考试不难。可以携带Cheat Sheet。
-  - **给分情况：** grader打分很好，作业只要交了且认真做了基本大概率就是满分。除了作业和期中期末外，有额外Bonus，如果想要获得Bonus，可以通过出勤（上课会点名）、做出额外的小作业（跑一下程序，比如让你用100 1000 10000个数据测试一下quick sort 和select sort哪个快）等方式获得。如果Bonus能拿到一些分数，总分可以升一档，如B+升至A-，且通过Bonus升档的同学不会影响总体成绩分布。笔者身边的同学基本都拿了A-或A。
-  - **教授情况：** 乐于沟通，属于认真教课，而且试图教会你的老师。他本人说，做错了无所谓，付出努力才是得分标准。
-  - **是否推荐：** 推荐基础较弱的同学选择Zaky。
-- 教授4: S. Nath （Fall 2022开始的新老师）
-  - **Workload与难度：** 作业量较大，据上过的科班同学说每次作业基本也要做半天到一天的时间。有2次小组作业Project，而且要求每次需跟不同的同学组队。期中考试可以携带Cheat Sheet，期末考试分为一场Online考试（6-8小时）和一场闭卷考试（2小时），难度较高而且考完之后非常疲惫。
-  - **给分情况：** 虽然难度较高，但给分宽松，Online考试大部分人都拿了接近满分，最后总评有43%的人拿了A。
-  - **教授情况：** 乐于沟通且友善，而且努力记住学生的脸和名字，据说也会邀请学生组团去pub一起喝酒。
-  - **是否推荐：** 如果在找工的同时安排好时间认真完成作业，即便没能排到前50%，最后的成绩也大概率不会影响CPT。从给分角度，相比Tran推荐选择。但是如果对难度有一定顾虑，更推荐选择Zaky。
+The following professors are currently known to have attended: (incomplete list)
+- Professor 1: N. Tran
+   - **Workload and difficulty:** In terms of Workload, there are homework every week, with 2-3 questions for each homework, and it takes half a day to a day of research to ensure the correct rate. There are 2 exams (mid-term + final), the amount of questions is large, handwritten code is required and CheatSheet is not allowed. In terms of difficulty, before the midterm exam, it was more like a math proof course than an algorithm, and the question types of the exam and homework were closer. After the midterm exam, many difficult algorithms will be involved. The final exam generally reflects that it is very difficult, and you need to tear up DP, NP-Hard proof and other questions by hand within two hours.
+   - **Grading Criteria & Grading Histories:** Exams account for a huge proportion, 80% in total, and even if there are 8 homeworks, they only account for 20% in total. Therefore, test performance plays an absolutely decisive role in GPA. According to the situation of the previous session and this session, even if the average score of each homework and test is basically above, it may be given a B-. If there is a test below the average score, it will basically be C and below. If each test and assignment is more than the average score, it is basically an A. Grader is very strict on the first three assignments. According to the practical experience of the students around me, half of the marks may be deducted even if a summary conclusion or a formula in the middle of the derivation process is missing in the first three assignments.
+   - **Evaluation on Professor:** will give a sample test before the exam. If you have any questions, you can also go to the office hour to communicate and answer questions. However, if it involves questions such as whether XXX will be tested in the exam, it will not give a positive answer, which is not conducive to reviewing and preparing for the exam.
+   - **Recommend this course?** It has high requirements for algorithms and mathematical foundations. If you have not systematically studied data structures and various common algorithm knowledge in college, it is not recommended to choose it during job hunting. If you want to deepen your understanding of the algorithm on the basis of the university's algorithm and **don't care about giving points**, or if you already have a stable offer and want to further improve yourself, it is recommended to choose.
 
+- Professor 2: Y. Wang
+   - **Workload and Difficulty:** According to the students who have passed, the homework exams are basically Leetcode questions. contrast with other teachers.
+   - **Grading Criteria & Grading Histories:** According to the students who have attended the class, the writing on the blackboard is very serious and clear, and the DP/NP-hard proof questions will be explained step by step.
+   - **Evaluation on Professor:** If you can choose it, it is highly recommended to choose it during job hunting. (One of the pitfalls of **SCU course selection** is: for freshmen, the priority of course selection is lower than that of old students, which also leads to the fact that when it is the turn of freshmen to choose courses, they usually cannot choose Prof Wang's courses. If you can't choose In his case, it is recommended to consider Zaky or Nath.)
+
+- Professor 3: A. Zaky
+   - **Workload and Difficulty:** Moderate workload and moderate difficulty. As long as you are not completely paddling, listen to the lectures a little more carefully in class, write your homework well, and the exam is not difficult. You can carry a cheat sheet.
+   - **Grading Criteria & Grading Histories:** The grader scores very well. As long as the homework is handed in and done seriously, there is a high probability that it will get a full score. In addition to homework and the end of the midterm, there are additional Bonus. If you want to get Bonus, you can pass attendance (the class will roll your name) and do additional small homework (run the program, for example, let you use 100 1000 10000 data to test quick sort and select sort which is faster) and other methods. If the Bonus can get some points, the total score can be upgraded by one grade, such as B+ to A-, and the students who pass the Bonus upgrade will not affect the overall score distribution. Most of the students around me got A- or A.
+   - **Evaluation on Professor:** A teacher who is willing to communicate, is serious about teaching, and tries to teach you. He himself said that it doesn't matter if you make a mistake, and the hard work is the scoring criterion.
+   - **Recommend this course?** It is recommended that students with weak foundations choose Zaky.
+
+- Professor 4: S. Nath (new teacher starting in Fall 2022)
+   - **Workload and Difficulty:** The amount of homework is relatively large. According to the students who have attended the class, each homework basically takes half a day to a day. There are 2 group work projects, and each time you need to form a team with different students. You can carry a cheat sheet for the midterm exam. The final exam is divided into an online exam (6-8 hours) and a closed-book exam (2 hours). It is difficult and very exhausting after the exam.
+   - **Grading Criteria & Grading Histories:** Although the difficulty is high, the scoring is loose. Most people got close to full marks in the online exam, and 43% of the people got A in the final overall evaluation.
+   - **Evaluation on Professor:** He is willing to communicate and friendly, and tries his best to remember the students' faces and names. It is said that he will invite students to form a group to go to the pub to drink together.
+   - **Recommend this course?** If you arrange time to complete the homework carefully while looking for a job, even if you fail to rank in the top 50%, the final score will most likely not affect the CPT. From the point of view of giving points, it is recommended to choose compared to Tran. But if you have certain concerns about the difficulty, Zaky is more recommended.
 
 ### 2.2 COEN283 Operating Systems
-目前已知的有以下教授上过：（不完全名单）
-- 教授1: A. Elkady
-  - **Workload与难度：** 有作业，Project和期中期末考试。总体量相对不大，但是考试和作业难度较大，较多概念题，考试不允许携带Cheat Sheet，如果只靠考前突击很可能会无法覆盖所有复习的点。Project如果选好Team，对于本身具有一定编程能力的同学而言不算难。
-  - **给分情况：** 给分宽松，据上过的同学说，期末就算只考50分也能拿B，会curve。如果平时好好做作业和Project，最后总分不至于很差。
-  - **是否推荐：** 上过的同学表示相对Prof MH Wang更为推荐Prof Elkady。
-- 教授2: M.H. Wang
-  - **Workload与难度：** 从workload来说，对于转码的同学算大的。这学期的两个programming assignments都要求用C语言来完成，这对于不会的同学确实挺头痛。考试难度较高，还要写paper，不论是pa还是paper细节要求特别多，需要花时间投入精力完成。
-  - **给分情况：** 期中平均分30%。好在最后的成绩大家还算满意，因为他第一节课就说final平均分是A-。
-  - **教授情况：** 平常上课语速较慢，老师也热情有问必答。
-  - **是否推荐：** 不推荐转码或找工压力较大的同学选择，占用时间过多。适合想要学习底层原理，找工压力一般，对自己要求较高的同学。
+The following professors are currently known to have attended: (incomplete list)
+- Professor 1: A. Elkady
+   - **Workload and Difficulty:** There are assignments, projects and midterm and final exams. The overall amount is relatively small, but the exam and homework are more difficult, and there are many conceptual questions. Cheat Sheets are not allowed in the exam. If you only rely on pre-examination raids, you may not be able to cover all the review points. If you choose a good team for the project, it is not difficult for students with certain programming skills.
+   - **Grading Criteria & Grading Histories:** The score is loose. According to the students who have passed the test, even if you only get 50 points in the final exam, you can get a B and you can curve. If you do your homework and projects well, your final score will not be too bad.
+   - **Recommend this course?** The students who have attended said that Prof Elkady is more recommended than Prof MH Wang.
 
+- Professor 2: M.H. Wang
+   - **Workload and Difficulty:** From the perspective of workload, it is considered large for non-CS background students. The two programming assignments this semester are required to be completed in C language, which is really a headache for students who don't know it. The exam is more difficult, and the paper must be written. Whether it is the pa or the paper, there are many details, and it takes time and effort to complete.
+   - **Grading Criteria & Grading Histories:** Mid-term average score of 30%. Fortunately, everyone was satisfied with the final grade, because he said that the average final grade was A- in the first class.
+   - **Evaluation on Professor:** Usually, the speaking speed in class is slow, and the teacher is also enthusiastic about answering questions.
+   - **Recommend this course?** It is not recommended for students who are under pressure to find a job, because it takes too much time. It is suitable for students who want to learn the underlying principles, have average job hunting pressure, and have high demands on themselves.
 
 
 ### 2.3 COEN210 Computer Architecture
-目前已知的有以下教授上过：
-- 教授1: Y. Cui （Fall 2022开始的新老师）
-  - **Workload与难度：** 三次作业5%，都是教材上的题目：一个project15%，据部分同学表示project的布置和表述较差。内容大致为设计一个cpu，需要交assembly code和datapath，最后有presentation和report；两个quiz10%，时间半小时，题比较少；midterm30%，有选择填空解答，题量比较大但是有考试范围；final40%，无选择填空，10道左右解答题，给了详细的复习重点。都可以带cheat sheet。
-  - **给分情况：** 虽然题有一定难度，但给分很宽松，作业交了基本都是满分，最后总分A的比例相对K Pahlavan教授的210多很多。
-  - **教授情况：** 考试前划重点，并告知考试范围，非常利于复习。做好cheet cheet考试应该都没有问题。虽然上课基本是对着ppt读，但答疑态度很好，十分友善，也可以直接用中文提问。
-  - **是否推荐：** 相比于Prof Pahlavan更推荐。
-- 教授2: K. Pahlavan （Fall 2022开始的新老师）
-  - **Workload与难度：**  总共6次作业，选三次提交，每次作业大约需耗时至少半天，需查阅课外资料。总共3次quiz和一个final，不允许携带CheatSheet，考试均为闭卷。平时quiz概念题简单题居多，一定要填满。final中60%为multiple choice，简答题的人情分更少了，且考察了较多最后并未怎么提及的第六章内容，哪怕是学霸都反应final发挥的不好。占比20%的project不建议太多花精力，最终给分都差不多，无bonus。且由于这节课的ppt太差了，最好要去上课，一个人在家自学很容易迷失。
-  - **给分情况：** 平时3次quiz占比总共30%，final占比40%，因此考试的表现对GPA起绝对的决定性作用。了解的到的得分从C到A-不等，即使是学霸也未能拿下A，主要还是因为final考了很多作业和PPT中都没有的内容，普遍反应这个老师给分很低。**根据转码同学的反映，即便每次作业认真做，考试认真考，也会可能被打C。**
-  - **教授情况：** 没有任何sample test，也不划重点，只能依靠学生自己去啃书，上课时同学请教问题基本不会给出明确的答案。
-  - **是否推荐：** 上过的同学无论是否科班，一致表示非常不推荐。即便是科班出身的同学也表示难以复习备考。
-- 教授3: A. Zaky
+The following professors are currently known to have attended:
+- Professor 1: Y. Cui (new teacher starting in Fall 2022)
+   - **Workload and Difficulty:** 5% of the three assignments are all topics in the textbook: 15% for a project. According to some students, the layout and presentation of the project are poor. The content is roughly to design a cpu, need to submit assembly code and datapath, and finally there is presentation and report; two quiz10%, half an hour, relatively few questions; midterm30%, there are optional fill-in-the-blank answers, the amount of questions is relatively large but there is an exam scope; final40%, fill in the blanks without choice, answer about 10 questions, and give detailed review points. You can bring a cheat sheet.
+   - **Grading Criteria & Grading Histories:** Although the questions are difficult, the scoring is very loose. The assignments are basically full marks, and the proportion of the final total score of A is much higher than that of Professor K Pahlavan's 210.
+   - **Evaluation on Professor:** Prioritize the key points before the exam and inform the scope of the exam, which is very helpful for review. Doing well in the cheet cheet exam should be no problem. Although the class is basically reading in front of the ppt, the attitude of answering questions is very good and friendly, and you can also ask questions directly in Chinese.
+   - **Recommend this course?** Recommended compared to Prof Pahlavan.
+
+- Professor 2: K. Pahlavan (new teacher starting in Fall 2022)
+   - **Workload and Difficulty:** There are 6 assignments in total, choose 3 submissions, each assignment will take at least half a day, and you need to consult extracurricular materials. A total of 3 quizs and a final, no CheatSheet is allowed, and the exams are all closed-book. Usually quiz concept questions are mostly simple questions, so they must be filled. 60% of the finals are multiple choices, and the short-answer questions have fewer human points, and a lot of chapter 6 content that was not mentioned in the end was inspected. Even the top students said that the final performance was not good. It is not recommended to spend too much energy on projects that account for 20%, and the final scores are almost the same, and there is no bonus. And because the ppt of this class is too bad, it is best to go to class, it is easy to get lost when studying alone at home.
+   - **Grading Criteria & Grading Histories:** Usually 3 quizs account for 30% of the total, and final accounts for 40%. Therefore, the performance of the test plays an absolutely decisive role in GPA. I learned that the scores ranged from C to A-. Even the top student failed to get an A. The main reason was that the final test had a lot of homework and content that was not in the PPT. It was generally reported that the teacher gave a very low score. **According to the reflections of students, even if you do your homework seriously and take the exam seriously, you may get a C.**
+   - **Evaluation on Professor:** There is no sample test, and there is no key point. You can only rely on the students to study the books by themselves. During the class, the students ask questions and basically will not give clear answers.
+   - **Recommend this course?** The students who have attended the course, regardless of whether they are majors or not, all agree that they do not recommend it. Even students from majors said it was difficult to review and prepare for the exam.
+- Professor 3: A. Zaky
 =====To Be Updated=====
-- 教授4: Y. Wang
+- Professor 4: Y. Wang
 =====To Be Updated=====
-- 教授5: W. Shang
+- Professor 5: W. Shang
 =====To Be Updated=====
 
-
-## Part 3. COEN 3XX Courses (编号为3开头的课）
+## Part 3. COEN 3XX Courses (courses whose numbers start with 3)
 ### COEN317 Distributed Systems
-  - 教授1：R. Moazzeni
-    - **Workload及难度：** Workload毫无疑问地大，一位上过的同学曾评价道：“我在SCU就没见过这种又有作业，编程作业，又有期中期末还有Project，Report和Presentation的课。”难度方面，由于分布式系统这一学科本身就有一定难度且知识点繁多，因此这门课给无论科班还是非科班的同学的一致感受是上课内容、作业Proj、考试三者间几乎风马牛不相及。期中期末考试为Online，使用Lockdown Browser进行考核。考试由选择题和简答题两部分组成，覆盖的知识点非常多。
-    - **给分情况：** 给分较为宽松，作业如果能做出来个大概基本都给了满分。考试简答题也会尽量给分。笔者期中43（平均分70左右）期末80+，作业Proj基本满分，最后拿了B。期中考70左右的同学基本都拿了B+及以上。
-    - **教授情况：** 与学生交流方面，如果学生有问题很愿意探讨，回复邮件速度很快。讲课方面评价较为两极分化，一部分同学认为教授上课只是在读PPT且PPT结构混乱，另一部分同学则认为对概念的阐述非常清晰明了。
-    - **是否推荐：** 如果身处找工，非常不推荐选择，会占用相当多的时间。如果已有Offer或想在分布式系统方面加深认识（毕竟懂些分布式有利于实际工作），推荐选择。如已经决定选择这门课，建议以小组形式展开学习和复习，一个人学难以handle。PA加在简历上作用不大，如果Final Project能做出来且放在简历上或许是一个加分点。
-  - 教授2：R. Bruce （为Spring 2023开始的新讲师，暂无评价）
+- Professor 1: R. Moazzeni
+     - **Workload and Difficulty:** Workload is undoubtedly large. A classmate once commented: "I have never seen this kind of homework, programming homework, and mid-term and end-of-term projects in SCU. , Report and Presentation classes." In terms of difficulty, because the subject of distributed systems is inherently difficult and has a lot of knowledge points, the consistent feeling of this course for students regardless of subject or non-subject is the content of the class, homework Proj, There is almost no relationship between the three exams. The mid-term and final exams are online, and the Lockdown Browser is used for assessment. The exam consists of multiple choice questions and short answer questions, covering a lot of knowledge points.
+     - **Grading Criteria & Grading Histories:** The score is relatively loose, and if the homework can be done, it will probably be given full marks. Exam short answer questions will try to give points. The author scored 43 in the midterm (average score of about 70) and 80+ in the end of the semester. The homework Proj basically got a full score, and finally got a B. Most of the students who scored around 70% in the midterm exam got B+ or above.
+     - **Evaluation on Professor:** In terms of communication with students, if students have questions, they are willing to discuss and reply to emails very quickly. The evaluation of the lectures is quite polarized. Some students think that the professor is only reading PPT in class and the structure of the PPT is confusing, while the other part of the students think that the explanation of the concepts is very clear.
+     - **Recommend this course?** If you are looking for a job, it is not recommended to choose, it will take a lot of time. If you have an offer or want to deepen your understanding of distributed systems (after all, knowing something about distributed systems is beneficial to practical work), it is recommended to choose. If you have already decided to choose this course, it is recommended to study and review in groups, as it is difficult to handle by yourself. Adding PA to the resume is not very effective. If the Final Project can be made and placed on the resume, it may be a plus point.
+- Professor 2: R. Bruce (new lecturer starting for Spring 2023, no comments yet)
 
-### COEN359 Design Patterns （不是每学期都有）
-教授：R. Mikkilineni
-  - **Workload及难度：** 全Online授课，load据上这门课的同学说全程学习时间大概只用了一个星期左右，期末考试也是Online。中间需要做一个小Project，除此之外基本没什么作业。
-  - **给分情况：** 作业基本给接近满分，其他TBD
-  - **教授情况：** RMP上基本全是好评。
-  - **是否推荐：** 推荐，尤其如果本身有一定Java基础，学起来相对轻松。
+### COEN359 Design Patterns (not every semester)
+Professor: R. Mikkilineni
+   - **Workload and Difficulty:** Full online teaching, load According to the students who took this course, the whole learning time only took about a week, and the final exam was also Online. A small project needs to be done in the middle, and there is basically no homework other than that.
+   - **Grading Criteria & Grading Histories:** Homework is basically given close to full marks, other TBD
+   - **Evaluation on Professor:** RMP is basically full of praise.
+   - **Recommend this course?** Recommended, especially if you have a certain Java foundation, it is relatively easy to learn.
 
 
 ## Part 4. COEN 2XX Courses Other Electives
@@ -158,31 +150,31 @@ Last Edited: Jan 18, 2023
 ====To Be Updated====
 
 ### COEN290 Computer Graphics
-教授：Y. Wang
-  - **Workload及难度：** 有作业，Project和Final Exam。Project需要用Python及第三方库完成，作业和Final Exam有一定难度，如果之前对计算机图形学没有了解的同学直接选可能入门会有些痛苦。
-  - **是否推荐：** Prof. Wang就不必说了，能选到就推荐上。
+Professor: Y. Wang
+   - **Workload and Difficulty:** There are homework, Project and Final Exam. The project needs to be completed with Python and third-party libraries. The homework and Final Exam are difficult. If students who have no prior knowledge of computer graphics choose directly, it may be a bit painful to get started.
+   - **Recommend this course?** Needless to say, Prof. Wang, if you can choose it, recommend it.
 
 ### COEN241 Cloud Computing
-教授：S. Choi
-  - **Workload及难度：** 有作业，Project和Midterm。Project为云计算相关，大致内容为使用Docker和云服务器部署一个项目/网站。如果之前有full stack项目经验则可以套用到Project里。
-  - **给分情况：** 较为严格，但不会给挂。对22fall，仅有25%的同学拿到A档，70%的同学即便总分上了90也不给A只有B档，剩余5%据说是curve放水了之后才给到了C。
-  - **教授情况：** 难以沟通，拿了B且总分90以上的同学试图Argue最终成绩，但被其以自己已经curve/放水的理由驳回。
-  - **是否推荐：** 不推荐对GPA要求高的同学或需要通过选修课拉高GPA的同学，适合已经上得差不多，没有GPA压力的同学选择。
+Professor: S. Choi
+   - **Workload and Difficulty:** There are homework, Project and Midterm. Project is related to cloud computing, and the general content is to deploy a project/website using Docker and cloud servers. If you have full stack project experience before, you can apply it to the project.
+   - **Grading Criteria & Grading Histories:** It is more strict, but it will not be suspended. For 22fall, only 25% of the students got grade A, 70% of the students won’t get grade A even if the total score reaches 90, only grade B, and the remaining 5% are said to be graded C after the curve released the water.
+   - **Evaluation on Professor:** Difficult to communicate, students who got a B and a total score of 90 or more tried to Argue the final score, but were rejected by him on the grounds that he had already curve/released water.
+   - **Recommend this course?** It is not recommended for students who have high GPA requirements or students who need to increase their GPA through elective courses.
 
-## Part 5. COEN 教师/讲师 评价（Authored by 某位转码同学）
-### 避雷
-如果不想影响GPA或CPT，也不想学到产生 mental issue，这些教授的课请尽量避免在关键找工期选择：
-- N. Tran：对数理基础好的人来说学起来普遍反映也算吃力，更何况是想找工的转码小菜鸡？我和认识的一位印度女生（科班）是同学两人学的都很认真也尽力做了作业，只是考试没到平均分，都只拿了C。另一位期中考试到平均分的科班同学也只有B-。**如果有人推荐 Tran，应该是因为推荐的人本身算法基础就很好而且乐于学习新知识。**
-- R. Bruce：317 分布式系统的其中一位教授，第一堂课直说自己给分会很严格，还说出了以下的“经典名言”：**“我给分会很严格，因为life就是这样的。你们以后进了公司也会这样，所以提前体验一下没什么不好的。”** 学期最后基本只剩 3、4 个学生。
-- K. Pahlavan：不划重点。期末复习前如果基础不好，很容易迷失。而且 22 fall 学期的时候没有 curve，导致**有些转码的同学认真学了也拿了C**。
-- A. Elkady：据上过课的小伙伴说，学生如果想要期末拿到成绩，需要先在 RateMyProfessor 上给他打好评，**拿截图换成绩**。有朋友吐槽说这个都可以向学校举报了，但是不知道为什么一直没人举报。给分情况未知。
-- S. Jahangiri：据上过 COEN380 Advanced Database Systems 课的小伙伴说，programming project 可能会要求学生一行一行解释代码。**如果解释不出来或含糊不清，他会在心里默默给你打一个F**，并认为你是抄的代码，**并且在学期最后真的给你一个 F 并上报学校。还说他不管你是F1还是国际学生还是要找工，在他的课堂上只能听他的**（大概意思）。
+## Part 5. COEN Teacher/Lecturer General Evaluation (Authored by a non-CS background classmate)
+### Lightning Protection
+If you don’t want to affect your GPA or CPT, and you don’t want to learn mental issues, please try to avoid choosing the key period for these professors’ courses:
+- N. Tran: For people with a good foundation in mathematics and science, it is generally considered difficult to learn, let alone non-CS rookies who want to find a job? An Indian girl I know (in a major class) and I are classmates. Both of us studied hard and did our homework as hard as possible, but we didn't get an average score in the exam, and we only got a C. Another classmate who got an average score in the midterm exam also only got a B-. **If someone recommends Tran, it should be because the recommended person has a good algorithm foundation and is willing to learn new knowledge. **
+- R. Bruce: One of the professors of the 317 Distributed System, in the first class, he said that he was very strict with the branch, and also said the following "classic quotes": ** "I am very strict with the branch, because life is This is the case. You will do the same when you enter the company in the future, so there is nothing wrong with experiencing it in advance.” ** At the end of the semester, there are basically only 3 or 4 students left.
+- K. Pahlavan: Out of focus. If the foundation is not good before the final review, it is easy to get lost. Moreover, there was no curve in the 22 fall semester, which caused **some students who come from non-CS backgrounds seriously studied and got C**.
+- A. Elkady: According to the friends who have attended the class, if students want to get grades at the end of the semester, they need to give him a good review on RateMyProfessor, **Take screenshots for grades**. A friend complained that this can be reported to the school, but I don’t know why no one has reported it. The score is unknown.
+- S. Jahangiri: According to a friend who has taken the COEN380 Advanced Database Systems class, the programming project may require students to explain the code line by line. **If you can’t explain it or it’s vague, he will silently give you an F** in his heart and think that you copied the code,** and he will really give you an F at the end of the semester and report it to the school. He also said that no matter whether you are an F1 student or an international student or looking for a job, you can only listen to his ** in his class (probably meaning).
 
-（PS：其他教授的情况还在更新中目前给到的这些都是转码找工人100%建议避开的教授不在这里推荐某门课的原因：就算是转码生大家对课程的要求也不一样不想做不负责任的推荐但是避雷的点都是公认的所以只提及了尽量避开的老师）
-### 推荐
+(PS: The situation of other professors is still being updated. These are the reasons why the professors who are 100% recommended to avoid for non-CS background students do not recommend a certain course here: Even for them, everyone has no requirements for courses. I also don’t want to make irresponsible recommendations, but the point of lightning protection is generally recognized, so I only mentioned teachers who try to avoid)
+### recommend
 (WIP)
 
 ## Part 5. EMGT Courses
 =====To Be Updated=====
 
-## 
+##
